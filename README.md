@@ -9,7 +9,6 @@
 - 👯 **I’m looking to collaborate on:** Java-based Web Applications and Full Stack Projects
 - 🤔 **I’m looking for help with:** Enhancing Room Easy Project features and deployment
 - 💬 **Ask me about:** Java, Full Stack Development, Project Collaboration
-- 📫 **How to reach me:** deshmukhambadas510@gmail.com
 - 😄 **Pronouns:** Ambadas
 - ⚡ **Fun fact:** I love building things that make life easier, and code loves me back!
 
